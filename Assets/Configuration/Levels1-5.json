@@ -1,0 +1,49 @@
+{
+  "Configs": [
+    {
+      "LevelNumber": 1,
+      "WordConfigs": [
+        { "Clusters": ["по", "дв", "иг"] },
+        { "Clusters": ["за", "щита"] },
+        { "Clusters": ["про", "рок"] },
+        { "Clusters": ["ст", "олик"] }
+      ]
+    },
+    {
+      "LevelNumber": 2,
+      "WordConfigs": [
+        { "Clusters": ["до", "ро", "га"] },
+        { "Clusters": ["ма", "шина"] },
+        { "Clusters": ["спа", "рта"] },
+        { "Clusters": ["ко", "ле", "но"] }
+      ]
+    },
+    {
+      "LevelNumber": 3,
+      "WordConfigs": [
+        { "Clusters": ["пры", "жок"] },
+        { "Clusters": ["уче", "ник"] },
+        { "Clusters": ["ве", "дь", "ма"] },
+        { "Clusters": ["го", "рода"] }
+      ]
+    },
+    {
+      "LevelNumber": 4,
+      "WordConfigs": [
+        { "Clusters": ["лу", "чший"] },
+        { "Clusters": ["дру", "жба"] },
+        { "Clusters": ["пл", "ёт", "ка"] },
+        { "Clusters": ["рем", "ень"] }
+      ]
+    },
+    {
+      "LevelNumber": 5,
+      "WordConfigs": [
+        { "Clusters": ["хоро", "шо"] },
+        { "Clusters": ["го", "ло", "ва"] },
+        { "Clusters": ["фар", "тук"] },
+        { "Clusters": ["крас", "ив"] }
+      ]
+    }
+  ]
+}
